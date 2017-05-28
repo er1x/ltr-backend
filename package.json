@@ -1,0 +1,13 @@
+{
+  "name": "ltr-backend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "Emilio J. Grande <emilio@ejgrande.com>",
+  "license": "UNLICENSED",
+  "private": true
+}
